@@ -1,4 +1,3 @@
-\# Git Test
+# Git Test
 
 Hello OSC!
-
